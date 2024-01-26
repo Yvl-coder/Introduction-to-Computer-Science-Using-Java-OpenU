@@ -1,2 +1,2 @@
 
-"mmn" means task that contains open questions. Red font mean fixes in the mmn.
+"mmn" means task that contains exercises. Red font mean fixes in the mmn.
